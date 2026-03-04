@@ -1,17 +1,27 @@
-# Native Tutor AI - Community Consensus Portal
+# 🗳️ Native Tutor AI - Community Consensus Portal
 
-Welcome to the heart of the language revival mission. This repository is where native speakers, linguists, and elders collaborate to define the "Gold Standard" for Nigerian languages.
+> **"It takes a village to train an AI."**
 
-## 🌟 The Mission
-The disappearance of languages is a cultural tragedy. By contributing your knowledge, you are helping build a proactive AI tutor that teaches future generations the authentic rhythm and nuances of your mother tongue.
+The **Community Consensus Portal** is the democratic foundation of the Native Tutor AI project. This repository serves as the "Global Brain" where native speakers, linguists, and cultural custodians verify the linguistic data used by thousands of students.
 
-## 🛠️ How it Works
-1. **Submission**: Users submit phrases, greetings, and scenarios in Hausa, Yoruba, Igbo, Bini, Afemai, etc.
-2. **Consensus**: The community upvotes and verifies the accuracy of tones, grammar, and cultural context.
-3. **Ingestion**: Verified content is automatically synced to the Native Tutor AI app to be used in live lessons.
+## 🎯 Our Goal
+AI is only as good as its data. To prevent "AI Hallucination" in Nigerian languages, we use a community-verified schema to ensure every tone, proverb, and slang is authentic to the culture it represents.
 
-## 📜 Linguistic Schema
-Content should follow the structure defined in `consensus_schema.json`.
+## 🛠️ The Verification Pipeline
+1.  **Contribute**: Submit scenarios (e.g., "Haggling for Peppers at Mushin Market").
+2.  **Consensus**: The community uses GitHub Issues and Discussions to vote on the "most correct" version.
+3.  **Gold Standard**: Verified phrases are compiled into `consensus_schema.json` and synced to the [Student App](https://github.com/brytebee/student-app-public).
 
-## 🤝 Getting Involved
-Join the discussion in the Issues or start a new Scenario Proposal!
+## 🌍 Why This Matters
+Many AI models fail at the "Tones" of Yoruba or the "Harmony" of Igbo. This portal creates the largest open-source, high-quality linguistic dataset for Nigerian languages, ensuring our digital future is as rich as our oral past.
+
+## 🤝 How to contribute
+*   **Native Speakers**: Review submitted phrases for authenticity.
+*   **Linguists**: Help define the formal tonal marking standards.
+*   **Developers**: Help automate the ingestion service.
+
+---
+### 📈 Social Impact
+This project aims to support the UN Sustainable Development Goal **SDG 4 (Quality Education)** and **SDG 11 (Protecting Cultural Heritage)**.
+
+[Join the Discussion](https://github.com/brytebee/community-consensus/discussions) | [Submit a Phrase](https://github.com/brytebee/community-consensus/issues)
