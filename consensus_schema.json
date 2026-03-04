@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "description": "Standard schema for community linguistic contributions",
+  "fields": {
+    "language_code": "ISO 639-3 (e.g., 'hau', 'yor', 'ibo')",
+    "dialect": "Regional variant (e.g., 'Owerri', 'Onitsha')",
+    "category": "Market, School, Wedding, Greetings, etc.",
+    "phrase_original": "The text in the native language",
+    "phrase_corrected": "Grammatically perfect version (if applicable)",
+    "tones": "Description of pitch accents (e.g., High-Mid-Low)",
+    "cultural_note": "Contextual usage (e.g., 'Only used for elders')",
+    "contributor": "GitHub username or Display name"
+  }
+}
